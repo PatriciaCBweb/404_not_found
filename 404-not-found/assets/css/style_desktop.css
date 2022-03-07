@@ -1,0 +1,40 @@
+*{
+    font-family: 'Space Mono', monospace;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    max-width: 1300px;
+    padding-top: 100px;
+}
+
+#img{
+    padding-right: 70px;
+    
+}
+#img img{
+    width: 539px;
+}
+
+#text h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+
+#text p{
+    width: 56%;
+    font-size: 24px;
+    padding: 50px 0;
+
+}
+#text button{
+    background-color: #000;
+    padding: 15px 25px;
+    border-radius: 0;
+    color: #fff;
+    text-transform: uppercase;
+
+}
