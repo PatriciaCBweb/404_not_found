@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/PatriciaCBweb/404_not_found/blob/main/assets/images/Scarecrow.png)
+![screenshot](https://github.com/PatriciaCBweb/404_not_found/blob/main/Screenshot.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
