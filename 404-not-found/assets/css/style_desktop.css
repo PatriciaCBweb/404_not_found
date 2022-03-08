@@ -5,18 +5,26 @@
 }
 .container{
     margin: auto;
+    max-width: 1300px;  
+}
+
+header p{
+    font-family: 'Space Mono', monospace;
+    text-transform: uppercase;
+}
+
+main{
+    padding-top: 100px;
     display: flex;
     flex-direction: row;
-    max-width: 1300px;
-    padding-top: 100px;
 }
 
 #img{
     padding-right: 70px;
-    
 }
+
 #img img{
-    width: 539px;
+    width: 100%;
 }
 
 #text h1{
@@ -36,5 +44,18 @@
     border-radius: 0;
     color: #fff;
     text-transform: uppercase;
+}
 
+footer{
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    margin-top: 20%;
+
+}
+
+footer a{
+    text-decoration: none;
+    font-weight: 700;
+    color: #60588E;
 }
